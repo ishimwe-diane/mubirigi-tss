@@ -1,0 +1,53 @@
+.d{
+background-color:#e6f9ff;
+}
+p{
+font-family:verdana;
+font-size:20px;
+}
+
+h1{
+	text-align:center;
+	font-family:Lucida Handwriting;
+}
+h2{
+text-align:center;
+}
+h3{
+	text-align:center;
+	font-family:gaduki;
+}
+	
+img{
+	border-radius:200px;
+}
+.f fieldset{
+		background-color:blue;
+		border:90px;
+	}
+	ul{
+		background-color:white;
+	}
+	.m fieldset{
+		background-color:red;
+		bolder:90px;
+		}
+		ol{
+		background-color:white;
+	}
+	}
+.w table{
+	border-spacing:20px;
+}
+.d table{
+	border-spacing:20px;
+}
+.w th,td,tr{
+	padding:10px;
+}
+.d th,td,tr{
+	padding:10px;
+}
+.w{
+	background-color:grey;
+}

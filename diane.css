@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> my web page </title>
+</head>
+<body>
+<img src="o.jpg" height="100"px,width="100"px>
+<h1> welcome my website </h1>
+<p> i am to studing website disgining and web development for naw</p>
+<p> wen to finishstudyies am going to kanada</p><br>
+<table bolder="1">
+<tr>
+<th> year</th>
+<th> school</th>
+<th> major</th>
+</tr>
+<tr>
+<td> 2020</td>
+<td> gs runaba</td>
+<td>olevel</td>
+</tr>
+<tr>
+<td> 2021</td>
+<td> msgr .f mubirigi</td>
+<td> lever</td>
+</tr>
+<tr>
+<td> 2022</td>
+<td> iness ruhengeri </td>
+<td> university</td>
+</tr>
+</table>
+<form>
+username:<input type="text"name="username"placeholder="username" value="diane"><br><br>
+email:<input type="email"name="email"placeholder="email" value="ishdiane001gmail.com"><br><br>
+password:<input type="password"name="possword" placeholder="password"><br><br>
+<input type="submit"name="submit" value="submit"><br>
+</form>
+</body>
+</html>

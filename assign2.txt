@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<html>
+<head>
+<title> welicome my web </title>
+</head>
+<body>
+<a link herf="www.gougle.com">www.gougle.com</a>
+<a link herf="www.feacebook.com">www.gougle.com</a>
+<a link herf="w3school.com">www.gougle.com</a>
+<a link herf="igihe.com">www.gougle.com</a>
+<a link herf="irembo.com">www.gougle.com</a>
+<a link herf="youtob.com">www.gougle.com</a>
+<a link herf="stackover.com">www.gougle.com</a>
